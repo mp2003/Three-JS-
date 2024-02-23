@@ -56,7 +56,7 @@ html {
 }
 
 .filepicker-label {
-    @apply border border-gray-300 py-1.5 px-2 rounded-md shadow-sm text-xs text-gray-700 focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 cursor-pointer w-fit;
+    @apply border border-gray-300 py-1.5 px-2 rounded-md shadow-sm text-xs text-slate-900 focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 cursor-pointer w-fit;
 }
 
 .tab-btn {
